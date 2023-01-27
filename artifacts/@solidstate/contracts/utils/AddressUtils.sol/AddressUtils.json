@@ -1,0 +1,26 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "AddressUtils",
+  "sourceName": "@solidstate/contracts/utils/AddressUtils.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "AddressUtils__InsufficientBalance",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "AddressUtils__NotContract",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "AddressUtils__SendValueFailed",
+      "type": "error"
+    }
+  ],
+  "bytecode": "0x60566037600b82828239805160001a607314602a57634e487b7160e01b600052600060045260246000fd5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea264697066735822122071b3750e14cce3b4c59eddb7ea9f190df493cf73baa3175c51e3b4ef172019be64736f6c63430008110033",
+  "deployedBytecode": "0x73000000000000000000000000000000000000000030146080604052600080fdfea264697066735822122071b3750e14cce3b4c59eddb7ea9f190df493cf73baa3175c51e3b4ef172019be64736f6c63430008110033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

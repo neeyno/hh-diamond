@@ -1,0 +1,29 @@
+await token.name()
+await token.symbol()
+let token = await ethers.getContractAt("CustomToken",diamond.address)
+let diamond = await ethers.getContract("MyDiamond", deployer)
+let deployer = (await ethers.getSigners())[0]
+await token.name()
+await token.decimals()
+await token.symbol()
+await token._symbol()
+await token.symbol()
+await token.decimals()
+await token.symbol()
+await token.name()
+let token = await ethers.getContractAt("CustomToken",diamond.address)
+await diamond.name()
+diamond.name()
+diamond.address
+let diamond = await ethers.getContract("MyDiamond", deployer)
+deployer.address
+let deployer = (await ethers.getSigners())[0]
+let diamond = await ethers.getContract("MyDiamond", deployer)
+ await diamond.name()
+ await diamond.address()
+ await diamond.address
+let diamond = await ethers.getContract("MyDiamond", deployer)
+deployer
+let deployer = (await ethers.getSigners())[0]
+let deployer = (await ethers.getSigners()).[0]
+let diamond = await ethers.getContract("MyDiamond", deployer)

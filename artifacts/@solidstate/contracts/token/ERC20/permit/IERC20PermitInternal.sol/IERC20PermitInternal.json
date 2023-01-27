@@ -1,0 +1,21 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "IERC20PermitInternal",
+  "sourceName": "@solidstate/contracts/token/ERC20/permit/IERC20PermitInternal.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "ERC20Permit__ExpiredDeadline",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "ERC20Permit__InvalidSignature",
+      "type": "error"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
